@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+<!DOCKTYPE html>
+<head>
+<body>
+<style>
+h1 {
+color: orange;
+}
+h2 {
+color: red;
+}
+h3 {
+color: blue;
+}
+body {
+background-color: gray;
+}
+h4 {
+color: green;
+}
 
-You can use the [editor on GitHub](https://github.com/SkillMaster1/SkillMaster1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+</style>
+<title> Awesome Site Programming</title>
+<h1> Our Objective</h1>
+<p> <strong>We Teach You How To Code Like A Boss!!</strong></p>
+<h2> The Purpose Of Our Website</h2>
+<p> Our Website Contains:</p>
+<ul>
+<li> Tutorials</li>
+<li> Games</li>
+<li> Video Editing</li>
+</ul>
+<h3>
+Tutorials</h3>
+<p> Our tutorials features:</p>
+<ol>
+<li> Intro to web</li>
+<li> Intro to html</li>
+<li> Intro to CSS</li>
+<li> Tips and tricks for html and CSS</li>
+<li> Intro and tricks for video editing</li>
+</ol>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h4> Games</h4>
+<ul>
+<a href="https://scratch.mit.edu/projects/150441989/"><li>Scratch Pong</li></a></ul>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+</body>
+</head>
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SkillMaster1/SkillMaster1.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
